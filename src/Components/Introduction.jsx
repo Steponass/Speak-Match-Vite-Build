@@ -20,7 +20,7 @@ export default function Introduction() {
 
     const renderContent = () => {
         if (visibleDiv === 0) {
-            return <h3 key={0} className='flip-in-hor-top'>Need to give a speech<br />or presentation?</h3>;
+            return <h3 key={0} className='flip-in-hor-top'>NNNeed to give a speech<br />or presentation?</h3>;
         } else if (visibleDiv === 1) {
             return <h3 key={1} className='flip-in-hor-top'>Managing a meeting<br />or a discussion...</h3>;
         } else if (visibleDiv === 2) {
