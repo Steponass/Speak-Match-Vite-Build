@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Atkinson Hyperlegible';
+    src: url('subset-AtkinsonHyperlegible-Regular.woff2') format('woff2'),
+        url('subset-AtkinsonHyperlegible-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Atkinson Hyperlegible';
+    src: url('subset-AtkinsonHyperlegible-Bold.woff2') format('woff2'),
+        url('subset-AtkinsonHyperlegible-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
